@@ -51,6 +51,8 @@ make jugar
 ## Estructura del código
 
 Tal y como se muestra en la siguiente figura
+![imagen](https://user-images.githubusercontent.com/115775737/222677046-f9561ac8-a0fe-46c8-aa01-add740ab3e62.png)
+
 El código consta de dos clases `Tablero.java` que está en el paquete 
 `dominio` que contiene el método para la simulación del juego
 y la clase `Principal.java` que está en el paquete `aplicacion` 
